@@ -30,4 +30,3 @@ This repository contains the raw outputs, analysis data, and refactored code ass
 ## Additional Information
 
 - This repository is intended to complement the published paper. For more detailed explanations regarding the methodology and data interpretation, please refer to the paper.
-- If you have any questions or require further details regarding the contents, please contact the corresponding author.
